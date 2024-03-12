@@ -12,7 +12,9 @@ This script uses the Scapy library, a powerful packet manipulation tool for Pyth
 To use this script:
 
 Step 1: Install Scapy if you haven't already (pip install scapy).
+
 Step 2: Save the script to a Python file (e.g., network_monitor.py).
+
 Step 3: Run the script with appropriate permissions (sudo python3 network_monitor.py).
 
 Make sure to run this script with appropriate permissions to capture network traffic. Additionally, you can enhance the analyze_packet function with more sophisticated threat detection logic based on your specific requirements and the types of threats you want to detect.
